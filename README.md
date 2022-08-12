@@ -1,1 +1,2 @@
 # adsinsightslab
+SUBDOMAIN TAKEOVER
